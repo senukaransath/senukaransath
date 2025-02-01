@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React, Angular, ASP.NET, AWS**
+- 🌱 I’m currently learning **Python, Selenium, RPA, MERN Stack, AWS**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Projects**
 
