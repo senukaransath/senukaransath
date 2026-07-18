@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Senuka Ransath</h1>
 
 <h3 align="center">
-  Associate Software Engineer | RPA & Full-Stack Developer
+  Associate Software Engineer | RPA, Python Automation & Full-Stack Development
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Robotic+Process+Automation+Developer;Python+%7C+Selenium+%7C+Playwright;Full-Stack+Web+Application+Developer;API+Integration+%26+Cloud+Deployment;Open+to+Freelance+Projects"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Robotic+Process+Automation+Developer;Python+%7C+Selenium+%7C+Playwright;Business+Process+Automation;Full-Stack+Web+Development;API+Integration+%26+Cloud+Deployment;Open+to+Freelance+Projects"
     alt="Typing animation"
   />
 </p>
@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/senuka-ransath-14b8bb254">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Connect with me on LinkedIn"
+      alt="Connect with Senuka Ransath on LinkedIn"
     />
   </a>
 </p>
@@ -31,54 +31,56 @@
 
 I’m **Senuka Ransath**, an Associate Software Engineer from Sri Lanka with nearly **two years of professional software development experience**.
 
-I specialize in **Robotic Process Automation, Python development, browser automation, API integration and full-stack web development**. I enjoy transforming repetitive manual tasks into reliable, efficient and maintainable automation solutions.
+I specialize in **Robotic Process Automation, Python development, browser automation, API integration and full-stack web development**.
+
+I enjoy transforming repetitive and time-consuming manual processes into reliable, maintainable and efficient automation solutions.
 
 - 🤖 Developing RPA and business-process automation solutions
 - 🐍 Building Python automation using Selenium and Playwright
-- 📊 Automating Excel reports, file processing, validation and data workflows
+- 🖥️ Automating browser-based and desktop-based workflows
+- 📊 Automating Excel reports, file processing and data validation
 - 🔗 Developing REST APIs and third-party system integrations
-- 🌐 Building full-stack applications using React, Next.js, Node.js and NestJS
-- ☁️ Deploying and managing applications using AWS EC2
-- 🛠️ Working with Microsoft Azure, Azure DevOps and Google Cloud Platform
+- 🌐 Building full-stack applications using modern web technologies
+- ☁️ Deploying and managing applications in cloud environments
 - 🏥 Familiar with Revenue Cycle Management workflows
 - 🔐 Familiar with HIPAA-aware development and secure data-handling practices
 - 🎓 BEng (Hons) in Software Engineering with First Class Honours
-- 🧪 Following clean coding, unit testing, logging and debugging practices
+- 🧪 Following clean-code, testing, logging and debugging best practices
 - 🚀 Fast learner with a problem-solving and continuous-growth mindset
-- 💼 Open to freelance RPA, automation and web development projects
+- 💼 Open to freelance automation and software development projects
 
 ---
 
-## 🚀 Areas of Expertise
+## 🚀 Core Expertise
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 RPA & Automation</h3>
       <p>
-        Business-process automation, browser automation, file processing,
-        Excel automation, data validation, automated reporting and
-        configurable workflow development.
+        Business-process automation, browser automation, desktop automation,
+        file processing, Excel automation, data validation, automated
+        reporting and configurable workflow development.
       </p>
     </td>
 
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Full-Stack Development</h3>
+      <h3 align="center">🐍 Python Development</h3>
       <p>
-        Responsive web applications, frontend interfaces, backend services,
-        REST APIs, authentication, database integration and scalable
-        application architecture.
+        Maintainable Python applications, automation bots, reusable modules,
+        structured logging, exception handling, configuration management
+        and unit-tested solutions.
       </p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔗 API & System Integration</h3>
+      <h3 align="center">🌐 Full-Stack Development</h3>
       <p>
-        REST API development, Microsoft Graph API, SharePoint automation,
-        third-party integrations, automated notifications and secure
-        data exchange.
+        Responsive frontend applications, backend services, REST APIs,
+        authentication, database integration and scalable web application
+        architecture.
       </p>
     </td>
 
@@ -86,7 +88,8 @@ I specialize in **Robotic Process Automation, Python development, browser automa
       <h3 align="center">☁️ Cloud & DevOps</h3>
       <p>
         AWS EC2 deployment, cloud application hosting, server configuration,
-        Git workflows, Azure DevOps and CI/CD development practices.
+        source-control workflows, Azure DevOps and CI/CD development
+        practices.
       </p>
     </td>
   </tr>
@@ -96,17 +99,54 @@ I specialize in **Robotic Process Automation, Python development, browser automa
 
 ## 🛠️ Technologies & Tools
 
-### 🤖 RPA, Automation & APIs
+### 🤖 RPA, Python & Automation
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/RPA-6C63FF?style=for-the-badge&logo=probot&logoColor=white" alt="RPA"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Graph"/>
-  <img src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint"/>
-  <img src="https://img.shields.io/badge/Excel%20Automation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Automation"/>
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python"
+  />
+  <img
+    src="https://img.shields.io/badge/RPA-Process%20Automation-6C63FF?style=for-the-badge&logo=probot&logoColor=white"
+    alt="Robotic Process Automation"
+  />
+  <img
+    src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"
+    alt="Selenium"
+  />
+  <img
+    src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"
+    alt="Playwright"
+  />
+  <img
+    src="https://img.shields.io/badge/PyAutoGUI-Desktop%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="PyAutoGUI"
+  />
+  <img
+    src="https://img.shields.io/badge/Excel%20Automation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"
+    alt="Excel Automation"
+  />
+</p>
+
+### 🔗 APIs & Microsoft Automation
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/REST%20API-Development-009688?style=for-the-badge&logo=fastapi&logoColor=white"
+    alt="REST API Development"
+  />
+  <img
+    src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
+    alt="Microsoft Graph API"
+  />
+  <img
+    src="https://img.shields.io/badge/SharePoint-Automation-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"
+    alt="SharePoint Automation"
+  />
+  <img
+    src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+    alt="Postman"
+  />
 </p>
 
 ### 🌐 Full-Stack Development
@@ -114,7 +154,7 @@ I specialize in **Robotic Process Automation, Python development, browser automa
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,js,ts,html,css,bootstrap"
-    alt="Full-stack development technologies"
+    alt="React, Next.js, Node.js, NestJS, JavaScript, TypeScript, HTML, CSS and Bootstrap"
   />
 </p>
 
@@ -123,7 +163,18 @@ I specialize in **Robotic Process Automation, Python development, browser automa
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,postman,vscode,figma"
-    alt="Cloud, DevOps and development tools"
+    alt="AWS, Azure, Google Cloud, Git, GitHub, Postman, Visual Studio Code and Figma"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/AWS%20EC2-Deployment-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"
+    alt="AWS EC2"
+  />
+  <img
+    src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"
+    alt="Azure DevOps"
   />
 </p>
 
@@ -132,9 +183,8 @@ I specialize in **Robotic Process Automation, Python development, browser automa
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"
-    alt="Database technologies"
+    alt="MySQL, MongoDB and SQLite"
   />
-
   <img
     src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
     alt="Microsoft SQL Server"
@@ -145,81 +195,75 @@ I specialize in **Robotic Process Automation, Python development, browser automa
 
 ## 💼 Freelance Services
 
-I’m available to support projects involving:
+<table>
+  <tr>
+    <td valign="top">
+      <strong>🤖 Automation Solutions</strong>
+      <br/><br/>
+      Custom RPA bots, browser automation, desktop automation and repetitive
+      business-process automation.
+    </td>
 
-- Custom Python automation
-- Robotic Process Automation solutions
-- Selenium and Playwright browser automation
-- Excel, CSV, TXT and ZIP file automation
-- Data extraction, transformation and validation
-- Automated report generation
-- REST API development and integration
-- Microsoft Graph and SharePoint automation
-- Full-stack web application development
-- AWS EC2 deployment and server setup
-- Existing automation debugging and improvement
-- Unit testing, logging and exception handling
+    <td valign="top">
+      <strong>📊 Data & File Processing</strong>
+      <br/><br/>
+      Excel, CSV, TXT and ZIP processing, data validation, transformation and
+      automated reporting.
+    </td>
+  </tr>
 
-> My goal is to transform repetitive manual work into reliable, maintainable and efficient software solutions.
+  <tr>
+    <td valign="top">
+      <strong>🔗 API Integration</strong>
+      <br/><br/>
+      REST API development, Microsoft Graph, SharePoint and third-party
+      application integrations.
+    </td>
+
+    <td valign="top">
+      <strong>🌐 Web Development</strong>
+      <br/><br/>
+      Full-stack web applications, frontend interfaces, backend services and
+      database integrations.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+> **My goal is to transform repetitive manual work into reliable, maintainable and efficient software solutions.**
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=senukaransath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=senukaransath&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Senuka Ransath GitHub statistics"
   />
 
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=senukaransath&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=senukaransath&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
     alt="Senuka Ransath most-used programming languages"
   />
 </p>
 
-<p align="center">
-  <img
-    width="65%"
-    src="https://streak-stats.demolab.com?user=senukaransath&theme=tokyonight&hide_border=true"
-    alt="Senuka Ransath GitHub contribution streak"
-  />
-</p>
-
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/senukaransath/senukaransath/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/senukaransath/senukaransath/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/senukaransath/senukaransath/output/github-contribution-grid-snake.svg"
-      alt="GitHub contribution snake animation"
-    />
-  </picture>
-</p>
-
----
-
-## 📈 Contribution Graph
+## 🐍 Automation in Motion
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=senukaransath&theme=tokyo-night&hide_border=true&area=true"
-    alt="Senuka Ransath GitHub contribution graph"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    alt="Decorative animated contribution snake"
   />
+</p>
+
+<p align="center">
+  <em>Automating repetitive work, one process at a time.</em>
 </p>
 
 ---
