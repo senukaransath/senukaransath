@@ -29,11 +29,11 @@
 
 ## 👨‍💻 About Me
 
-I’m **Senuka Ransath**, an Associate Software Engineer from Sri Lanka with nearly **two years of professional software development experience**.
+I’m **Senuka Ransath**, a Software Engineer from Sri Lanka with nearly **two years of professional software development experience**.
 
 I specialize in **Robotic Process Automation, Python development, browser automation, API integration and full-stack web development**.
 
-I enjoy transforming repetitive and time-consuming manual processes into reliable, maintainable and efficient automation solutions.
+I enjoy transforming repetitive and time consuming manual processes into reliable, maintainable and efficient automation solutions.
 
 - 🤖 Developing RPA and business-process automation solutions
 - 🐍 Building Python automation using Selenium and Playwright
