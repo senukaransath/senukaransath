@@ -235,24 +235,6 @@ I enjoy transforming repetitive and time consuming manual processes into reliabl
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=senukaransath&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Senuka Ransath GitHub statistics"
-  />
-
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=senukaransath&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-    alt="Senuka Ransath most-used programming languages"
-  />
-</p>
-
----
-
 ## 🐍 Automation in Motion
 
 <p align="center">
